@@ -1,0 +1,62 @@
+
+    body {
+        background-image: url(images/img2.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+        padding: 250px;
+    }
+    .container{
+        width: 50%;
+        height: 40px;
+        background:palevioletred;
+        padding: 40px;
+        margin: 10px auto;
+        color: peachpuff;
+        border-radius: 10px;
+        display: flex;
+        justify-content: space-between;
+        
+
+    }
+    .contentone{
+        width: 45%;
+      
+        
+    }
+    .contenttwo{
+        width: 45%;
+        
+       
+    }
+    #texbox1{
+        width: 100%;
+        height:30px;
+        border:none;
+        border-radius: 10px;
+        padding-left: 10px;
+        border-bottom:2px solid palegoldenrod;
+    }
+    #texbox2{
+        width: 100%;
+        height:30px;
+        border:none;
+        border-radius: 10px;
+        padding-left: 10px;
+        border-bottom:2px solid palegoldenrod;
+    }
+    button{
+
+        width: 30%;
+        height: 40px;
+        background-color: salmon;
+        color: white;
+        border: none;
+        border-radius: 5px;
+
+
+    }
+    .compare{
+        display: flex;
+        justify-content: center ;
+
+    }
